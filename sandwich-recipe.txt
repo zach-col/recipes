@@ -1,0 +1,11 @@
+Ingredients:
+ - Bread
+ - Turkey Meat
+ - Mayonnaise
+ - Lettuce
+ - Tomatoes
+
+Directions:
+ 1. Put bread on plate.
+ 2. Put Turkey Meat, Mayonnaise, Lettuce and Tomatoes on Bread.
+ 3. Put bread on top of ingredients.
